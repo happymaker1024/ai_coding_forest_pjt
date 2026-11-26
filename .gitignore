@@ -1,3 +1,11 @@
+.venv/
+.uv-cache/
+.uv-python/
+__pycache__/
+.pytest_cache/
+.pytest-tmp*/
+.streamlit/
+.claude/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
